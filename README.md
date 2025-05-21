@@ -11,5 +11,4 @@ A first-person survival game built with Unity.
 1. Open in Unity 2021.3 or higher.
 2. Hit Play in the editor.
 
-## License
-MIT
+
