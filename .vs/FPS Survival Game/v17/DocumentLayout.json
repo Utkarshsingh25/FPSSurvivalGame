@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\utkar\\Downloads\\FPS-Survival-Game-Finished-Project\\FPS Survival Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9DA049-30A7-6341-A6BB-6EEC5E6C96CC}|Assembly-CSharp.csproj|c:\\users\\utkar\\downloads\\fps-survival-game-finished-project\\fps survival game\\assets\\scripts\\player scripts\\playeraxewooshsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9DA049-30A7-6341-A6BB-6EEC5E6C96CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\playeraxewooshsound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9DA049-30A7-6341-A6BB-6EEC5E6C96CC}|Assembly-CSharp.csproj|C:\\Users\\utkar\\Downloads\\FPS-Survival-Game-Finished-Project\\FPS Survival Game\\assets\\scripts\\player scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9DA049-30A7-6341-A6BB-6EEC5E6C96CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9DA049-30A7-6341-A6BB-6EEC5E6C96CC}|Assembly-CSharp.csproj|C:\\Users\\utkar\\Downloads\\FPS-Survival-Game-Finished-Project\\FPS Survival Game\\assets\\scripts\\player scripts\\attackscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9DA049-30A7-6341-A6BB-6EEC5E6C96CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\attackscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9DA049-30A7-6341-A6BB-6EEC5E6C96CC}|Assembly-CSharp.csproj|C:\\Users\\utkar\\Downloads\\FPS-Survival-Game-Finished-Project\\FPS Survival Game\\assets\\scripts\\enemy scripts\\enemyaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9DA049-30A7-6341-A6BB-6EEC5E6C96CC}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy scripts\\enemyaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerAxeWooshSound.cs",
+              "DocumentMoniker": "C:\\Users\\utkar\\Downloads\\FPS-Survival-Game-Finished-Project\\FPS Survival Game\\Assets\\Scripts\\Player Scripts\\PlayerAxeWooshSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\PlayerAxeWooshSound.cs",
+              "ToolTip": "C:\\Users\\utkar\\Downloads\\FPS-Survival-Game-Finished-Project\\FPS Survival Game\\Assets\\Scripts\\Player Scripts\\PlayerAxeWooshSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\PlayerAxeWooshSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:17:23.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\utkar\\Downloads\\FPS-Survival-Game-Finished-Project\\FPS Survival Game\\Assets\\Scripts\\Player Scripts\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\utkar\\Downloads\\FPS-Survival-Game-Finished-Project\\FPS Survival Game\\Assets\\Scripts\\Player Scripts\\PlayerStats.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\PlayerStats.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:17:19.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttackScript.cs",
+              "DocumentMoniker": "C:\\Users\\utkar\\Downloads\\FPS-Survival-Game-Finished-Project\\FPS Survival Game\\Assets\\Scripts\\Player Scripts\\AttackScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\AttackScript.cs",
+              "ToolTip": "C:\\Users\\utkar\\Downloads\\FPS-Survival-Game-Finished-Project\\FPS Survival Game\\Assets\\Scripts\\Player Scripts\\AttackScript.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\AttackScript.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:17:11.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyAudio.cs",
+              "DocumentMoniker": "C:\\Users\\utkar\\Downloads\\FPS-Survival-Game-Finished-Project\\FPS Survival Game\\Assets\\Scripts\\Enemy Scripts\\EnemyAudio.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Scripts\\EnemyAudio.cs",
+              "ToolTip": "C:\\Users\\utkar\\Downloads\\FPS-Survival-Game-Finished-Project\\FPS Survival Game\\Assets\\Scripts\\Enemy Scripts\\EnemyAudio.cs*",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Scripts\\EnemyAudio.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T11:16:51.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
